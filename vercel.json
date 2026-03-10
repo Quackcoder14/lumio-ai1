@@ -5,6 +5,6 @@
   "framework": "nextjs",
   "regions": ["iad1"],
   "env": {
-    "NEXT_PUBLIC_GEMINI_API_KEY": "@gemini-api-key"
+    "NEXT_PUBLIC_GEMINI_API_KEY": "AIzaSyAI0CPBh6Xe9_9QvdiVv23l8XaW__6eM44"
   }
 }
